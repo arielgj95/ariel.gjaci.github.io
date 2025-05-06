@@ -37,13 +37,9 @@ My main contributions include:
 - Designing a culture embedding framework that disentangles cultural identity from speaker identity through **domain generalization** techniques like **Fishr** and **Adversarial Learning**.
 - Building a multimodal **Diffusion-Transformer** model to generate co-speech gestures conditioned on speech, text, and cultural context.
 
-Currently, I contribute to the [XTREME European Project](https://xtremeitu.dk/), working on realistic  
-spatial audio rendering for virtual and augmented reality environments using multimodal 
-learning techniques that combine audio and visual cues.
+Currently, I contribute to the [XTREME European Project](https://xtremeitu.dk/), working on realistic spatial audio rendering for virtual and augmented reality environments using multimodal learning techniques that combine audio and visual cues.
 
-My research is **task-oriented** rather than **topic-constrained**. I enjoy tackling complex 
-challenges across domains, from building autonomous agents and realistic virtual environments 
-to exploring applications in medicine such as drug discovery and diagnostics.
+My research is **task-oriented** rather than **topic-constrained**. I enjoy tackling complex  challenges across domains, from building autonomous agents and realistic virtual environments to exploring applications in medicine such as drug discovery and diagnostics.
 
 
 
