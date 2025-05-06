@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Allow: /
 
 Sitemap: https://arielgj95.github.io/sitemap.xml
