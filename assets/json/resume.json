@@ -1,18 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ariel Gjaci",
+    "label": "Postdoctoral Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ariel.gjaci@iit.it",
+    "phone": "+393483776041",
+    "url": "https://arielgj95.github.io",
+    "summary": "Postdoctoral Researcher with a multidisciplinary background in biomedical engineering, robotics, and artificial intelligence. My work spans computer vision, machine learning, multimodal systems, robotics, and computational acoustics, with applications in social robotics and immersive environments. I am driven by the goal of advancing AI research across diverse domains.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Via Evangelista Torricelli",
+      "postalCode": "16133",
+      "city": "Genoa",
+      "countryCode": "IT",
     },
     "profiles": [
       {

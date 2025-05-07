@@ -1,23 +1,23 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Postdoctoral Researcher at Italian Institute of Technology (IIT)
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>ariel.gjaci@iit.it</p>
     <p>+393483776041</p>
+    <p>ariel.gjaci@iit.it</p>
     <p>Genova, Italy, 16133</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -36,7 +36,8 @@ My main contributions include:
 - Analyzing cultural patterns in multiple datasets using machine learning techniques such as **SVMs**, **Random Forests**, **MLPs**, **VQ-VAEs**, and **Transformers**.
 - Designing a culture embedding framework that disentangles cultural identity from speaker identity through **domain generalization** techniques like **Fishr** and **Adversarial Learning**.
 - Building a multimodal **Diffusion-Transformer** model to generate co-speech gestures conditioned on speech, text, and cultural context.
+- Developing **rule-based** algorithms using **Semantic Similarity** to identify gestures.
 
 Currently, I contribute to the [XTREME European Project](https://xtremeitu.dk/), working on realistic spatial audio rendering for virtual and augmented reality environments using multimodal learning techniques that combine audio and visual cues.
 
-My research is **task-oriented** rather than **topic-constrained**. I enjoy tackling complex challenges across domains, from building autonomous agents and realistic virtual environments to exploring applications in medicine such as drug discovery and diagnostics.
+My research is **task-oriented** rather than **topic-constrained**. I enjoy tackling complex challenges across domains, from building autonomous agents and realistic virtual environments to exploring future applications in medicine, such as drug discovery and diagnostics.

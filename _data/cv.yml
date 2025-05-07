@@ -2,96 +2,94 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Ariel Gjaci
     - name: Date of Birth
-      value: 14th March 1879
+      value: 13th October 1995
     - name: Languages
-      value: English, German
+      value: Italian, English, Albanian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Artificial Intelligence and Robotics
+      institution: University of Genoa, Genoa, Italy
+      year: 2021-2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Developed a large-scale multimodal dataset.
+        - Applied ML models (SVMs, Transformers, MLPs, VQ-VAEs, LLMs) to analyze cultural factors.
+        - Developed subject-independent cultural embeddings using Fishr and Adversarial Learning.
+        - Built rule-based algorithms for identifying gestures from text using Semantic Similarity.
+        - Built a Diffusion-Transformer model for multimodal gesture generation.
+        - Reviewed papers for AI and Robotics journals and conferences.
+        - Co-organized a workshop at ECCV.
+        - Collaborated with researchers of King's College London.
+        - Obtained certifications from Coursera and international summer schools.
+        - Chaired a session of IEEE RO-MAN conference.
+
+    - title: Master's Degree in Robotics Engineering
+      institution: University of Genoa, Genoa, Italy
+      year: 2018-2021
+      description:
+        - 'Studied computer vision, machine learning, control theory, embedded systems, ROS, real-time systems, navigation, manipulation, and mechanical design.'
+        - title: 'Team and individual projects included:'
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Implementation of forward and inverse kinematics.
+            - 3D projection using stereo cameras.
+            - Sensor fusion architecture.
+            - Autonomous soccer-playing wheeled robot.
+            - Spider-robot design using CREO.
+            - Embedded system software for catamaran control.
+            - Communication between a robot and a cloud platform using REST API.
+        - 'Thesis: Culture-Aware Co-Speech Gestures Using Generative Adversarial Networks'
+    - title: Bachelor Degree in Biomedical Engineering
+      institution: University of Genoa, Genoa, Italy
+      year: 2014-2018
       description:
-        - Description 1.
-        - Description 2.
+        - 'Studied mathematics, geometry, physics, electronics, biomedical instrumentation, chemistry, materials science, biomechanics, signal processing, physiology, and programming.'
+        - 'Thesis: Characterization of the Activity Evoked by Stimuli in Hippocampal Neuronal Networks'
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral Researcher
+      institution: Italian Institute of Technology (IIT), Genova, Italy
+      year: 2025 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Writing a survey paper on learning-based methods for novel-view audio rendering.
+        - Developing a new method for high-quality binaural audio rendering using visual features.
+        - Collaborating with researchers across Europe.
+        - Collecting real-world multimodal data (e.g., museums, orchestras) for training audio rendering models.
+        - Contributing to the release of a production-level system.
+    - title: Software Engineer Intern
+      institution: Akka Technologies, Milano, Italy
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Developed a software system for managing military aircraft panels.
+        - Delivered and presented a working demo to stakeholders.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Machine Learning
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+      - Generative models
+      - Multimodal models
+      - Large Language models
+      - Domain Generalization
+      - Reinforcement Learning
+    - title: Robotics
       items:
-        - Description 1.
-        - Description 2.
+        - Social Robots
+        - Motion Generation
+        - Multimodal Interactions
+    - title: Computational Acoustics
+      items:
+        - Acoustic Fields
+        - Binaural Audio
+        - Audio Rendering
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Photography, Travel, Gym, Chess
