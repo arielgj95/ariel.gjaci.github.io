@@ -51,6 +51,7 @@
 
 - title: Experience
   type: time_table
+  icon: "fa-solid fa-briefcase"
   contents:
     - title: Postdoctoral Researcher
       institution: Italian Institute of Technology (IIT), Genova, Italy
