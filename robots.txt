@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://arielgj95.github.io/sitemap.xml
+Sitemap: https://arielgjaci.com/sitemap.xml
