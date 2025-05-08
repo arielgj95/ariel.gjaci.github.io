@@ -30,8 +30,8 @@
       institution: University of Genoa, Genoa, Italy
       year: 2018-2021
       description:
-        - 'Studied computer vision, machine learning, control theory, embedded systems, ROS, real-time systems, navigation, manipulation, and mechanical design.'
-        - title: 'Team and individual projects included:'
+        - "Studied computer vision, machine learning, control theory, embedded systems, ROS, real-time systems, navigation, manipulation, and mechanical design."
+        - title: "Team and individual projects included:"
           contents:
             - Implementation of forward and inverse kinematics.
             - 3D projection using stereo cameras.
@@ -40,14 +40,13 @@
             - Spider-robot design using CREO.
             - Embedded system software for catamaran control.
             - Communication between a robot and a cloud platform using REST API.
-        - 'Thesis: Culture-Aware Co-Speech Gestures Using Generative Adversarial Networks'
+        - "Thesis: Culture-Aware Co-Speech Gestures Using Generative Adversarial Networks"
     - title: Bachelor Degree in Biomedical Engineering
       institution: University of Genoa, Genoa, Italy
       year: 2014-2018
       description:
-        - 'Studied mathematics, geometry, physics, electronics, biomedical instrumentation, chemistry, materials science, biomechanics, signal processing, physiology, and programming.'
-        - 'Thesis: Characterization of the Activity Evoked by Stimuli in Hippocampal Neuronal Networks'
-
+        - "Studied mathematics, geometry, physics, electronics, biomedical instrumentation, chemistry, materials science, biomechanics, signal processing, physiology, and programming."
+        - "Thesis: Characterization of the Activity Evoked by Stimuli in Hippocampal Neuronal Networks"
 
 - title: Experience
   type: time_table
@@ -74,11 +73,11 @@
   contents:
     - title: Machine Learning
       items:
-      - Generative models
-      - Multimodal models
-      - Large Language models
-      - Domain Generalization
-      - Reinforcement Learning
+        - Generative models
+        - Multimodal models
+        - Large Language models
+        - Domain Generalization
+        - Reinforcement Learning
     - title: Robotics
       items:
         - Social Robots
