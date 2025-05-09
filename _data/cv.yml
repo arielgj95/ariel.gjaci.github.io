@@ -5,8 +5,14 @@
       value: Ariel Gjaci
     - name: Date of Birth
       value: 13th October 1995
+    - name: Email
+      value: ariel.gjaci@iit.it
+    - name: Phone
+      value: +393483776041
     - name: Languages
       value: Italian, English, Albanian
+    - name: Bio
+      value: Postdoctoral Researcher with a multidisciplinary background in biomedical engineering, robotics, and artificial intelligence. My work spans computer vision, machine learning, multimodal systems, robotics, and computational acoustics, with applications in social robotics and immersive environments. I am driven by the goal of advancing AI research across diverse domains.
 
 - title: Education
   type: time_table
@@ -48,7 +54,7 @@
         - "Studied mathematics, geometry, physics, electronics, biomedical instrumentation, chemistry, materials science, biomechanics, signal processing, physiology, and programming."
         - "Thesis: Characterization of the Activity Evoked by Stimuli in Hippocampal Neuronal Networks"
 
-- title: Experience
+- title: Work Experience
   type: time_table
   icon: "fa-solid fa-briefcase"
   contents:
