@@ -1,6 +1,32 @@
 <!-- Metadata, OpenGraph and Schema.org -->
 {% include metadata.liquid %}
 
+<meta property="og:site_name" content="Ariel Gjaci">
+<meta name="application-name" content="Ariel Gjaci">
+<meta name="description" content="Ariel Gjaci - Researcher in Computational Acoustics, Computer Vision, and Robotics">
+<meta name="author" content="Ariel Gjaci">
+<meta property="og:title" content="Ariel Gjaci">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://arielgjaci.com">
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Ariel Gjaci",
+    "url": "https://arielgjaci.com",
+    "sameAs": [
+      "https://scholar.google.com/citations?user=m_JznlkAAAAJ&hl=it&oi=ao",
+      "https://ohttps://orcid.org/my-orcid?orcid=0000-0001-9794-5200",
+      "https://www.linkedin.com/in/ariel-gjaci-43326019b/"
+    ],
+    "jobTitle": "Postdoctoral Researcher",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Istituto Italiano di Tecnologia"
+    }
+  }
+</script>
+
 <!-- Bootstrap & MDB -->
 <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | relative_url | bust_file_cache }}">
 <link
@@ -32,7 +58,18 @@
 >
 
 <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
-<link rel="icon" href="/favicon.ico">
+<link
+  rel="icon"
+  type="image/png"
+  sizes="32x32"
+  href="/assets/img/favicon-32x32.png"
+>
+<link
+  rel="icon"
+  type="image/png"
+  sizes="16x16"
+  href="/assets/img/favicon-16x16.png"
+>
 
 <!-- Code Syntax Highlighting -->
 <link
